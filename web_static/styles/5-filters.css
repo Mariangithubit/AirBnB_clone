@@ -13,6 +13,7 @@ section.filters button{
   margin-right: 30px;
   font-size: 18px;
   color: white;
+  background-color: #FF5A5F;
   width: 20%;
   height: 48px;
   border: 0px;
@@ -32,7 +33,7 @@ section.filters button:hover{
   float: left;
 }
 
-.Amenities{
+.amenities{
   text-align: left;
   width: 25%;
   height: 100%;
